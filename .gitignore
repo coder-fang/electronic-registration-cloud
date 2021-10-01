@@ -1,0 +1,21 @@
+HELP.md
+target/
+logs/
+.idea/
+*.iws
+*.iml
+*.ipr
+
+
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+
+### IntelliJ IDEA ###
+
+
+
+
+/.idea
+/.idea/inspectionProfiles
